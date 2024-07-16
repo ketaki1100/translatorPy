@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/1ad4dc67-d6ce-479c-81ef-c7eaafdbd31c/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/Translator-AppPy",
+    "appService.deploySubpath": "."
+}
